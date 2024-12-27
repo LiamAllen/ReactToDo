@@ -32,7 +32,7 @@ Install dependencies using
 
 Create a database named 'reacttodo', then create a table named 'todoitems'. 'todoitems' must contain four columns: 'Description', 'Name', 'User', and 'UUID'. The application does not yet have support for multiple users, user column will be set to 'default' for each entry. An illustration of this schematic is show below. 
 
-![alt text][database-reference](https://github.com/liamallen/reacttodo/mysql-config.png "database reference image")
+![alt text](https://github.com/liamallen/reacttodo/mysql-config.png "database reference image")
 
 ## Starting the Server
 
